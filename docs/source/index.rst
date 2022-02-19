@@ -1,3 +1,7 @@
+Le document semble contenir des variables.
+Voir pour l'éditer directement dans vscode, car cela serait cool.
+=================================================================
+
 Welcome to Lumache's documentation!
 ===================================
 C'est la page d'accueil dans /docs/sources/ du github
