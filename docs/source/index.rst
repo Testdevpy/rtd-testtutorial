@@ -25,3 +25,5 @@ Contents
 
    usage
    api
+      test1
+      test2
